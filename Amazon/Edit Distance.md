@@ -1,10 +1,9 @@
-# Edit Distance
+# Edit Distance [![Problem Link](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/problems/edit-distance/)
 
-### Dynamic Programming
-
+```
+Dynamic Programming
+``` 
 ### Problem Statement 
-
-[![Problem Link](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/problems/edit-distance/)
 
 Given two strings word1 and word2, return the minimum number of operations required to convert word1 to word2.
 
