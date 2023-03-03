@@ -1,5 +1,7 @@
 # LRU Cache
 
+### Hash Table, Doubly Linked List, Design
+
 ### Problem Statement 
 
 [![Problem Link](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/problems/lru-cache/)
