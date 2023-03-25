@@ -24,8 +24,6 @@ nums = [1,0,-1,0,-2,2], target = 0
 
 ### Solution
 ```cpp
-class Solution {  
-public:
    class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
